@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuitem_p"
+        android:title="@string/_1_ng_i" />
+    <item
+        android:id="@+id/menuitem_pvc"
+        android:title="@string/ng_i_vs_m_y" />
+    <item
+        android:id="@+id/menuitem_cvc"
+        android:title="@string/m_y_vs_m_y" />
+    <item
+        android:id="@+id/menuitem_thoat"
+        android:title="@string/tho_t_ch_ng_tr_nh" />
+</menu>

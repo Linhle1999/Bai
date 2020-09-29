@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BTThayGiaoVer.1</string>
+    <string name="ng_i_vs_ng_i">Người vs Người</string>
+    <string name="ng_i_vs_m_y">Người vs Máy</string>
+    <string name="m_y_vs_m_y">Máy vs Máy</string>
+    <string name="_1_ng_i">1 Người</string>
+    <string name="tho_t_ch_ng_tr_nh">Thoát chương trình</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_ba_cay">BaCay</string>
+</resources>
